@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "232297937939",
+    "firebase_url": "https://chachaandraaka.firebaseio.com",
+    "project_id": "chachaandraaka",
+    "storage_bucket": "chachaandraaka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232297937939:android:e4fe4f3385564c98",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.chachaandraaka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232297937939-4ili6pr2g3ef5u9ksip3gjbjvhulcoss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdJIhhlX81RDI5c1BFMqb2RKaRw0BT8O4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
